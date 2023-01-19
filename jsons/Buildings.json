@@ -8,8 +8,8 @@
 		"cityHealth": 35,
 		"hurryCostModifier": 50,
 		"requiredBuilding": "Walls",
-		"uniques": ["[+1 Culture] from every [Ocean]"],
-		"requiredTech": "Chivalry",
+		"uniques": ["[+1 Culture] from every [Ocean]", "[+1 Culture] in cities on [Coast] tiles"],
+		"requiredTech": "Construction",
 	},
 ]
 		
