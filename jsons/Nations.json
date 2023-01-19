@@ -25,6 +25,6 @@
 		"outerColor": [255,0,0],
 		"innerColor": [255,255,0],
 		"uniqueName": "Northern ancestral home",
-		"uniques": ["[+1 Culture, +3 Production] [in capital]"],
+		"uniques": ["[+1 Culture, +3 Production] [in capital]", "[+1 Faith] from [Tundra] tiles [in all cities with a world wonder]"],
 		"cities": ["Varanasi","Asi","Kashi","Sapha","Devgorye","Virata","Uplava","Harovo","Harovskaya bed","Harovka","Mandara","Mandarovo","Mera","Zaonejye","Gandamanda","Sagarov","Yamuna","Kuranga","Kurara","Voron","Kusumbah","Vaikanka","Trikuta","Patanga","Ruchaka","Nishahada","Snivasa","Kapila","Shanka","Vaidurya","Jarudhi","Hamsa","Rishabha","Naga","Kalangara","Narada","Sumaru","Pavana","Paratra","Kailasa"],
 		},]
