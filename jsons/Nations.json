@@ -10,6 +10,7 @@
 		"adjective": ["Hyperborean"],
 		"startBias": ["Tundra"],
 		"preferredVictoryType": "Cultural",
+                "style": "Nordic",
 		
 		"startIntroPart1": ".",
 		"startIntroPart2": ".",
@@ -19,8 +20,8 @@
 		"defeated": "The descendants were stronger than their ancestors.Don't forget about us...",
 		"introduction": "Welcome to the realm of the Titan children, descendant!",
 		
-		"neutralHello": "Hello.",
-		"hateHello": "What did you want?",
+		"neutralHello": "Hello, child.",
+		"hateHello": "What did yuo want?",
 		"tradeRequest": "What do you think about this?",
 		"outerColor": [255,0,0],
 		"innerColor": [255,255,0],
