@@ -6,6 +6,7 @@
 		"uniqueTo": "Hyperborea",
 		"cityStrength": 10,
 		"cityHealth": 35,
+  "culture": 1,
 		"hurryCostModifier": 50,
 		"requiredBuilding": "Walls",
 		"uniques": ["[+1 Culture] from every [Ocean]"],
