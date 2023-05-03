@@ -1,16 +1,11 @@
-[
-	{
-		"name": "Spectator",
-		"outerColor": [255,255,255]
-//		"innerColor": [255,255,255]
-	},
+[
 	{
 		"name": "Hyperborea",
 		"leaderName": "Sudyumna Paurvashi",
 		"adjective": ["Hyperborean"],
 		"startBias": ["Tundra"],
 		"preferredVictoryType": "Cultural",
-                "style": "Nordic",
+  "style": "Slavic",
 		
 		"startIntroPart1": ".",
 		"startIntroPart2": ".",
@@ -23,9 +18,9 @@
 		"neutralHello": "Hello, child.",
 		"hateHello": "What did yuo want?",
 		"tradeRequest": "What do you think about this?",
-		"outerColor": [255,0,0],
+		"outerColor": [255,0,5],
 		"innerColor": [255,255,0],
 		"uniqueName": "Northern ancestral home",
-		"uniques": ["[+1 Culture, +3 Production] [in capital]", "[+1 Faith] from [Tundra] tiles [in all cities with a world wonder]"],
-		"cities": ["Varanasi","Asi","Kashi","Sapha","Devgorye","Virata","Uplava","Harovo","Harovskaya bed","Harovka","Mandara","Mandarovo","Mera","Zaonejye","Gandamanda","Sagarov","Yamuna","Kuranga","Kurara","Voron","Kusumbah","Vaikanka","Trikuta","Patanga","Ruchaka","Nishahada","Snivasa","Kapila","Shanka","Vaidurya","Jarudhi","Hamsa","Rishabha","Naga","Kalangara","Narada","Sumaru","Pavana","Paratra","Kailasa"],
-		},]
+		"uniques": ["[+1 Culture, +1 Science, +3 Production] [in capital]", "[+2 Culture] from [Great Improvements] tiles [in all cities]", "[+1 Faith] from [Tundra] tiles [in all cities with a world wonder]"],
+		"cities": ["Varanasi","Asi","Kashi","Sapha","Devgorye","Virata","Santpol","Uplava","Harovo","Harovskayabed","Harovka","Mandara","Mandarovo","Mera","Zaonejye","Gandamanda","Sagarov","Yamuna","Kuranga","Kurara","Voron","Kusumbah","Vaikanka","Trikuta","Patanga","Ruchaka","Nishahada","Snivasa","Kapila","Shanka","Vaidurya","Jarudhi","Hamsa","Rishabha","Naga","Kalangara","Narada","Sumaru","Pavana","Paratra","Kailasa"],
+		}]
