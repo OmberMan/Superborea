@@ -1,1 +1,21 @@
-ÀAAAAA
+[ 
+ {
+                "name": "Dugin",
+                "preferredVictoryType": "Cultural",
+                "food": 5,
+                "production": 2,
+                "gold": 2,
+                "culture": 10,
+                "science": 9,
+                "faith": 7,
+                "military": 3,
+                "warMongering": 6,
+"priorities": {
+    "Honor": 10,
+    "Tradition": 40,
+    "Piety": 10,
+    "Autocracy": 20,
+    "Aesthetics": 20
+}
+        }
+]
