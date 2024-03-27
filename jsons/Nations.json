@@ -3,9 +3,10 @@
 		"name": "Hyperborea",
 		"leaderName": "Sudyumna Paurvashi",
 		"adjective": ["Hyperborean"],
-		"startBias": ["Tundra"],
+		"startBias": ["Tundra", "Coast" ],
 		"preferredVictoryType": "Cultural",
-  "style": "Slavic",
+  "personality": "Dugin",
+  "style": "Nordic",
 		
 		"startIntroPart1": ".",
 		"startIntroPart2": ".",
@@ -16,8 +17,8 @@
 		"introduction": "Welcome to the realm of the Titan children, descendant!",
 		
 		"neutralHello": "Hello, child.",
-		"hateHello": "What did yuo want?",
-		"tradeRequest": "What do you think about this?",
+		"hateHello": "We will try hard to tolerate your lesser (((people's))) existence.",
+		"tradeRequest": "Hier kommt die Sonne.",
 		"outerColor": [255,0,5],
 		"innerColor": [255,255,0],
 		"uniqueName": "Northern ancestral home",
