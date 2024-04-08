@@ -8,4 +8,32 @@
 			"All adjacent units heal [+30] HP when healing", "Great Person - [War]", "Unbuildable"],
 		"movement": 3
 	},
+	        {
+                "name": "Orichalcos Swordsman",
+                "unitType": "Sword",
+                "uniqueTo": "Atlantis",
+                "movement": 2,
+                "strength": 15,
+		"cost": 120,
+                "upgradesTo": "Musketman",
+                "requiredResource": "Iron",
+                "uniques": ["May attack when embarked", "[+33]% Strength <when attacking>", "Consumes [1] [Silver]", "Unit will heal every turn, even if it performs an action", "Eliminates combat penalty for attacking across a coast"],
+                "attackSound": "metalhit"
+        },
+	        {
+                "name": "War Mammoth",
+                "unitType": "Mounted",
+                "uniqueTo": "Hyperborea",
+                "replaces": "Catapult",
+                "movement": 3,
+                "strength": 17,
+                "cost": 130,
+                "requiredTech": "Trapping",
+                "upgradesTo": "Cavalry",
+                "uniques": ["No defensive terrain bonus", "[+100]% Strength <vs cities> <when attacking>", "[+25]% Strength <vs [Mounted] units> <when defending>", "[+5]% Strength bonus for [Land] units within [2] tiles", "Can enter ice tiles",
+                                        "[+20]% Strength <when fighting in [Snow] tiles>", "[+25]% Strength <when fighting in [Tundra] tiles>",
+                                        "[-10]% Strength for enemy [Military] units in adjacent [All] tiles"],
+                "hurryCostModifier": 50,
+                "attackSound": "elephant"
+        },
 ]
