@@ -12,12 +12,12 @@
                 "name": "Orichalcos Swordsman",
                 "unitType": "Sword",
                 "uniqueTo": "Atlantis",
-                "movement": 2,
+                "movement": 3,
                 "strength": 15,
 		"cost": 120,
                 "upgradesTo": "Musketman",
-                "requiredResource": "Iron",
-                "uniques": ["May attack when embarked", "[+33]% Strength <when attacking>", "Consumes [1] [Silver]", "Unit will heal every turn, even if it performs an action", "Eliminates combat penalty for attacking across a coast"],
+                "requiredResource": "Copper",
+                "uniques": ["May attack when embarked", "[+33]% Strength <when attacking>", "Consumes [1] [Silver]", "Unit will heal every turn, even if it performs an action", "Eliminates combat penalty for attacking across a coast", "[+5] HP when healing"],
                 "attackSound": "metalhit"
         },
 	        {
