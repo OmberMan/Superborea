@@ -17,5 +17,24 @@
     "Autocracy": 20,
     "Aesthetics": 20
 }
-        }
+        },
+  {
+                "name": "Theoden",
+                "preferredVictoryType": "Domination",
+                "food": 7,
+                "production": 4,
+                "gold": 6,
+                "culture": 6,
+                "science": 3,
+                "faith": 4,
+                "military": 7,
+                "warMongering": 7,
+"priorities": {
+    "Honor": 20,
+    "Tradition": 10,
+    "Liberty": 10,
+    "Autocracy": 20,
+    "Liberty": 10
+}
+  }
 ]
