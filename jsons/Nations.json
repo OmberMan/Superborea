@@ -1,4 +1,5 @@
-[
+[
+
 	{
 		"name": "Hyperborea",
 		"leaderName": "Sudyumna Paurvashi",
@@ -24,4 +25,35 @@
 		"uniqueName": "Northern ancestral home",
 		"uniques": ["[+1 Culture, +1 Science, +3 Production] [in capital]", "[-50]% Culture cost of natural border growth [in capital]", "[+1 Faith] from [Tundra] tiles [in all cities with a world wonder]", "[+3 Production, +2 Faith, +1 Culture] for every known Natural Wonder", "Land units may cross [Ice] tiles after the first [Horseman] is earned"],
 		"cities": ["Varanasi","Asi","Kashi","Sapha","Devgorye","Virata","Santpol","Uplava","Harovo","Harovskayabed","Harovka","Mandara","Mandarovo","Mera","Zaonejye","Gandamanda","Sagarov","Yamuna","Kuranga","Kurara","Voron","Kusumbah","Vaikanka","Trikuta","Patanga","Ruchaka","Nishahada","Snivasa","Kapila","Shanka","Vaidurya","Jarudhi","Hamsa","Rishabha","Naga","Kalangara","Narada","Sumaru","Pavana","Paratra","Kailasa"],
-		}]
+		},
+	{
+
+		"name": "Rohan",
+		"leaderName": "Theoden",
+		"adjective": ["Rohan"],
+		"style": "Germanic",
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Domination",
+	        "personality": "Theoden",
+		
+		"startIntroPart1": "TBD",
+		"startIntroPart2": "TBD",
+		
+		"declaringWar": "Muster the Rohirrim!",
+		"attacked": "bEtRaYaL!?!",
+		"defeated": "Nooooooooko.",
+		"introduction": "I am Theoden!",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "Neigh?!",
+		
+		"tradeRequest": "Hello friend?",
+				
+		"outerColor": [2, 112, 11],
+		"innerColor": [224, 218, 157],
+		"uniqueName": "Muster the Rohirrim",
+		"uniqueText": "Starts with Animal Husbandry. +1 Movement for all Mounted units, double quantity of Horses and Horses provide +1 Food."
+		"uniques": ["Starts with [Animal Husbandry]","[+1] Movement <for [Mounted] units>","Double quantity of [Horses] produced","[+1 Food] from every [Horses]", [+1 Food] from every [Pasture]", "[+20]% Strength <for [Mounted] units> <in [Friendly land]> tiles>"],
+		"cities": ["Edoras","Helm's Deep","Snowbourn","Aldburg","Dunharrow","Grimslade","Fords of Isen","Gap of Rohan","Eastemnet","Eastfold","Westemnet","Folde","Westfold","The Wold","West-March","Minhiriath","Meduseld","Framsburg"]
+	}
+]
