@@ -36,4 +36,19 @@
                 "hurryCostModifier": 50,
                 "attackSound": "elephant"
         },
+	{
+		"name": "Rohirrim"
+		"replaces": "Horseman",
+		"unitType": "Mounted",
+		"uniqueTo": "Rohan",
+		"movement": 4,
+		"strength": 16,
+		"cost": 75,
+		"requiredTech": "Horseback Riding",
+		"requiredResource": "Horses",
+		"upgradesTo": "Knight",
+		"uniques": ["Can move after attacking", "[-33]% Strength <vs cities>", "No movement cost to pillage"],
+		"hurryCostModifier": 20,
+		"attackSound": "horse"
+	},
 ]
