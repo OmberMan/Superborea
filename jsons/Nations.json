@@ -53,7 +53,7 @@
 		"innerColor": [224, 218, 157],
 		"uniqueName": "Muster the Rohirrim",
 		"uniqueText": "Starts with Animal Husbandry. +1 Movement for all Mounted units, double quantity of Horses and Horses provide +1 Food."
-		"uniques": ["Starts with [Animal Husbandry]","[+1] Movement <for [Mounted] units>","Double quantity of [Horses] produced","[+1 Food] from every [Horses]", [+1 Food] from every [Pasture]", "[+20]% Strength <for [Mounted] units> <in [Friendly land]> tiles>"],
+		"uniques": ["Starts with [Animal Husbandry]","[+1] Movement <for [Mounted] units>","Double quantity of [Horses] produced","[+1 Food] from every [Horses]", "[+1 Food] from every [Pasture]", "[+15]% Strength <for [Mounted] units> <when adjacent to a [Mounted] unit>"],
 		"cities": ["Edoras","Helm's Deep","Snowbourn","Aldburg","Dunharrow","Grimslade","Fords of Isen","Gap of Rohan","Eastemnet","Eastfold","Westemnet","Folde","Westfold","The Wold","West-March","Minhiriath","Meduseld","Framsburg"]
 	}
 ]
