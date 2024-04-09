@@ -21,7 +21,7 @@
                 "attackSound": "metalhit"
         },
 	        {
-                "name": "War Mammoth",
+                "name": "Mammoth Rider",
                 "unitType": "Mounted",
                 "uniqueTo": "Hyperborea",
                 "replaces": "Catapult",
