@@ -56,4 +56,30 @@
 		"uniques": ["Starts with [Animal Husbandry]","[+1] Movement <for [Mounted] units>","Double quantity of [Horses] produced","[+1 Food] from every [Horses]", "[+1 Food] from every [Pasture]", "[+15]% Strength <for [Mounted] units> <when adjacent to a [Mounted] unit>"],
 		"cities": ["Edoras","Helm's Deep","Snowbourn","Aldburg","Dunharrow","Grimslade","Fords of Isen","Gap of Rohan","Eastemnet","Eastfold","Westemnet","Folde","Westfold","The Wold","West-March","Minhiriath","Meduseld","Framsburg"]
 	}
+	        {
+            "name": "Kumari",
+            "leaderName": "Rangga Sasana Gupta",
+            "adjective": ["Lemurian"],
+            "startBias": ["Coast"],
+            "preferredVictoryType": "Domination",
+            "favoredReligion": "Buddhism",
+            "style": "Middle Eastern",
+            "personality": "Rangga",
+
+            "startIntroPart1": "Warm greetings to the ruler of the whole world, the great Rangga Sasana of the Sunda Empire. You have conquered the world and made them your brave warriors, all the progress you have made started from the Bandung Declaration which resulted in the advancement of technology and your army at least in the dream world. After that you quickly conquered the whole world in one day and started the Bandung Declaration II which contained a treaty of world unity in one banner of the Sunda Empire.",
+            "startIntroPart2": "O Rangga Sasana the ruler of worlds. The empire you lead is indeed prosperous and victorious in all fields. But your people seem to be starting to lose their identity especially after you disappeared. O Rangga Sasana, your people ask you to lead them again in achieving the glory of the Sunda Empire forever and ever. Can you do it? Can you build a civilization that will stand the test of time?",
+            "declaringWar": "You are a reckless colony and for that you must be punished!",
+            "attacked": "Hah, Have you never heard of the greatness of the Sunda empire?",
+            "defeated": "You, Bastard",
+            "introduction": "Greetings, I am Rangga Sasana, the ruler of all worlds",
+            "neutralHello": "What's the matter, brave warrior?",
+            "hateHello": "What do you want, bitch?",
+            "tradeRequest": "Greetings brave warriors, this benevolent Sunda Empire wishes to trade with you.",
+            "outerColor": [124,206,38],
+            "innerColor": [186,132,23],
+            "uniqueName": "Mandala Zone",
+            "uniques": ["All newly-trained [Melee Water] units [in all cities] receive the [Landing Party] promotion", "All newly-trained [Work Boats] units [in all cities] receive the [Jolopong] promotion", "[+1 Production] per [3] population [in all non-occupied cities] <while the empire is happy>", "No Maintenance costs for improvements in [Land] tiles <with [0] to [0] neighboring [City center] tiles> <in tiles without [Luxury resource]>", "[+50]% maintenance cost for buildings [in all cities connected to capital]", "Unhappiness from number of Cities doubled"],
+            "cities": ["Bandung","Lasanova","Dageeng","Dhendheng","Sie","Cakep","Ampal","Lunuk","Dengke","Usi","Cengkir","Cakkekh",
+                        "Degel","Dagiang","Keureut","Gepuk","Recah","Tiir", "Vapo"]
+        },
 ]
