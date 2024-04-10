@@ -39,7 +39,7 @@ TileSets/FantasyHex/Units/Bobo
   orig: 64, 64
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Cilbanari
+TileSets/FantasyHex/Units/Cilbanarii
   rotate: false
   xy: 4, 4
   size: 32, 32
@@ -74,7 +74,7 @@ TileSets/FantasyHex/Units/Heavy Chariot
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Macan_Bodas
+TileSets/FantasyHex/Units/Macan Bodas
   rotate: false
   xy: 784, 212
   size: 32, 32
@@ -95,7 +95,7 @@ TileSets/FantasyHex/Units/Mammoth Rider
   orig: 32, 32
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Orichalium Swordsman
+TileSets/FantasyHex/Units/Orichalcos Swordsman
   rotate: false
   xy: 824, 212
   size: 32, 32
