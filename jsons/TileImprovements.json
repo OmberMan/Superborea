@@ -20,7 +20,7 @@
 "[+1 Gold] for each adjacent [Bonus resource] <after discovering [Currency]>",
 "[+1 Production] for each adjacent [Jolopong]", "[+1 Culture] <with [2] to [3] neighboring [Jolopong] tiles>",
 "[+2 Culture] <with [4] to [5] neighboring [Jolopong] tiles>",
-"Cannot be built on [Coast] tiles <with [0] to [1] neighboring [Land] tiles>", “ "Adjacent enemy units ending their turn take [10] damage" 
+"Cannot be built on [Coast] tiles <with [0] to [1] neighboring [Land] tiles>", "Adjacent enemy units ending their turn take [10] damage" 
 ]
         },
                 ]
