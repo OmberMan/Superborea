@@ -105,7 +105,7 @@
 		"outerColor": [200,65,105],
 		"innerColor": [230,145,45],
 		"uniqueName": "Punching Bag",
-		"uniques": ["[+1 Culture, +1 Science, +3 Production] [in capital]", "[-50]% Culture cost of natural border growth [in capital]", "[+1 Faith] from [Tundra] tiles [in all cities with a world wonder]", "[+3 Production, +2 Faith, +1 Culture] for every known Natural Wonder", "Land units may cross [Ice] tiles after the first [Horseman] is earned"],
-		"cities": ["Varanasi","Asi","Kashi","Sapha","Devgorye","Virata","Santpol","Uplava","Harovo","Harovskayabed","Harovka","Mandara","Mandarovo","Mera","Zaonejye","Gandamanda","Sagarov","Yamuna","Kuranga","Kurara","Voron","Kusumbah","Vaikanka","Trikuta","Patanga","Ruchaka","Nishahada","Snivasa","Kapila","Shanka","Vaidurya","Jarudhi","Hamsa","Rishabha","Naga","Kalangara","Narada","Sumaru","Pavana","Paratra","Kailasa"],
+		"uniques": ["[+ Food] from [Farm] tiles [in all cities] <in tiles adjacent to [Hill]>"],
+		"cities": ["Mickelbrieg","Fuldunum","Cananefatorp","Woolaes","Praascoff","Cyrilneathn","Battawick","Fullvic","Harovskayabed","Harfham","Gossrodjock", "Mickelcleef", "Fulferfa","Meneiham"],
 		},
 ]
