@@ -8,6 +8,7 @@
                 "uniques": [ "[+1 Food] for each adjacent [Camp]","[+1 Production, +1 Food] <after discovering [Industrialization]>"],
                 "techRequired": "Masonry"
         },
+
         {
                 "name": "Jolopong",
                 "uniqueTo": "Sunda Empire",
