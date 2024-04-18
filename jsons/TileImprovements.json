@@ -1,10 +1,11 @@
+[
     {
                 "name": "Idendo",
                 "uniqueTo": "Leisi",
                 "terrainsCanBeBuiltOn": ["Tundra","Snow"],
                 "food": 1,
                 "turnsToBuild": 6,
-                "uniques": ["[+1 Food] for each adjacent [Camp]","[+1 Production, +1 Food] <after discovering [Industrialization]>","[+1 Culture] <after discovering [Philosophy]>", “[+1 Food] for each adjacent [Ice]", “[+1 Food] for each adjacent [Fish]”, “Constructing it will take over the tiles around it and assign them to your closest city”],
+                "uniques": ["[+1 Food] for each adjacent [Camp]","[+1 Production, +1 Food] <after discovering [Industrialization]>","[+1 Culture] <after discovering [Philosophy]>", “[+1 Food] for each adjacent [Ice]", “Constructing it will take over the tiles around it and assign them to your closest city”, "[+1 Food] for each adjacent [Fish]"],
                 "techRequired": "Masonry"
         },
         {
