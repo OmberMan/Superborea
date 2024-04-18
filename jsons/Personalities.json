@@ -36,5 +36,25 @@
     "Autocracy": 20,
     "Liberty": 10
 }
-  }
+  },
+{
+                "name": "999 Killchop Delux",
+                "preferredVictoryType": "Diplomatic",
+                "food": 8,
+                "production": 5,
+                "gold": 6,
+                "culture": 4,
+                "science": 5,
+                "faith": 6,
+                "military": 3,
+                "warMongering": 2,
+"priorities": {
+    "Commerce": 30,
+    "Tradition": 10,
+    "Liberty": 20,
+    "Piety": 10,
+    "Freedom": 10,
+    "Exploration": 15
+}
+        },
 ]
