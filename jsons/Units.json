@@ -80,7 +80,7 @@
                 "upgradesTo": "Knight",
                 "obsoleteTech": "Chivalry",
                 "uniques": ["Can move after attacking","[-33]% Strength <vs cities> <when attacking>", "Can transform to [Spearman]", "Can see invisible [Land] units", "[+50]% to Flank Attack bonuses", "[+1] Sight"],
-                "hurryCostModifier": 30,
+                "hurryCostModifier": 25,
                 "attackSound": "horse",
                 "promotions": ["[Macan Bodas] ability"]
         }
