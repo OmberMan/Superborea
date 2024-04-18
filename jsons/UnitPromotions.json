@@ -6,4 +6,8 @@
                         "Double movement in [Forest]",
                         "Double movement in [Jungle]"]
         },
+{
+           "name": "Jolopong",
+           "uniques": ["Can build [Jolopong] improvements on tiles"]
+        },
 ]
