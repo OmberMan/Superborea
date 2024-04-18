@@ -57,4 +57,42 @@
     "Exploration": 15
 }
         },
+{
+                "name": "Raka",
+                "preferredVictoryType": "Scientific",
+                "food": 5,
+                "production": 6,
+                "gold": 3,
+                "culture": 5,
+                "science": 6,
+                "faith": 4,
+                "military": 7,
+                "warMongering": 5,
+"priorities": {
+    "Exploration": 50,
+    "Liberty": 10,
+"Rationalism": 10,
+    "Tradition": 20,
+"Honor": 20
+}
+        },
+{
+                "name": "Rangga",
+                "preferredVictoryType": "Diplomatic",
+                "food": 8,
+                "production": 2,
+                "gold": 8,
+                "culture": 5,
+                "science": 3,
+                "faith": 6,
+                "military": 5,
+                "warMongering": 4,
+"priorities": {
+    "Patronage": 30,
+    "Exploration": 20,
+"Piety": 20,
+    "Order": 50,
+"Commerce": 30,
+}
+}
 ]
