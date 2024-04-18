@@ -102,10 +102,10 @@
 		"neutralHello": "And to what do I owe this pleasure?",
 		"hateHello": "Fack off, we're full.",
 		"tradeRequest": "With every bite of bone and skin, the island groans and shrieks again.",
-		"outerColor": [200,65,105],
+		"outerColor": [190,55,100],
 		"innerColor": [230,145,45],
 		"uniqueName": "Punching Bag",
-		"uniques": ["[+1 Food] from [Farm] tiles [in all cities] <in tiles adjacent to [Hill]>", " [+1 Food] from [Farm] tiles [in all cities] <in tiles adjacent to [Marsh]>", "Provides the cheapest [Culture] building in your first [1] cities for free" <upon declaring friendship>", "Gain [1]-[200] [Gold] <upon constructing [Production] [in all coastal cities]>", "[+1] population in a random city <upon constructing [Production] [in all coastal cities]>", "[+1] population in a random city <upon declaring friendship>", "[+1 Gold, +1 Food] in cities on [River] tiles", "[Faith] cost of purchasing items in cities [+100]%", "[-25]% Strength for cities", "[+50]% unhappiness from the number of cities", "[-25]% Production when constructing [Military] units [in all cities]", "[+1 Happiness, -1 Faith] from all [Faith] buildings", "[+10]% [Gold] from all [Production] buildings", "[-5]% [Production] from all [Production] buildings"],
+		"uniques": ["[+1 Food] from [Farm] tiles [in all cities] <in tiles adjacent to [Hill]>", " [+1 Food] from [Farm] tiles [in all cities] <in tiles adjacent to [Marsh]>", "Provides the cheapest [Culture] building in your first [1] cities for free <upon declaring friendship>", "Gain [1]-[200] [Gold] <upon constructing [Production] [in all coastal cities]>", "[+1] population in a random city <upon constructing [Production] [in all coastal cities]>", "[+1] population in a random city <upon declaring friendship>", "[+1 Gold, +1 Food] in cities on [River] tiles", "[Faith] cost of purchasing items in cities [+100]%", "[-25]% Strength for cities", "[+50]% unhappiness from the number of cities", "[-25]% Production when constructing [Military] units [in all cities]", "[+1 Happiness, -1 Faith] from all [Faith] buildings", "[+10]% [Gold] from all [Production] buildings", "[-5]% [Production] from all [Production] buildings"],
 		"cities": ["Mickelbrieg","Fuldunum","Cananefatorp","Woolaes","Praascoff","Cyrilneathn","Battawick","Fullvic","Harovskayabed","Harfham","Gossrodjock", "Mickelcleef", "Fulferfa","Meneiham"],
 		},
 ]
