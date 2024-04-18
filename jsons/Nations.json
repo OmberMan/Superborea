@@ -84,11 +84,11 @@
         },
 {
 		"name": "Doggerland",
-		"leaderName": "Cumcyuym",
+		"leaderName": "Alcohol Keath",
 		"adjective": ["Doggone"],
-		"startBias": ["Coast", "Grassland" ],
+		"startBias": ["Coast", "Grassland"],
 		"preferredVictoryType": "Diolomatic",
-  "personality": "Alcohol Keath",
+  "personality": "999 Killchop Delux",
   "style": "Germanic",
 		
 		"startIntroPart1": ".",
@@ -105,7 +105,7 @@
 		"outerColor": [200,65,105],
 		"innerColor": [230,145,45],
 		"uniqueName": "Punching Bag",
-		"uniques": ["[+ Food] from [Farm] tiles [in all cities] <in tiles adjacent to [Hill]>"],
+		"uniques": ["[+1 Food] from [Farm] tiles [in all cities] <in tiles adjacent to [Hill]>", " [+1 Food] from [Farm] tiles [in all cities] <in tiles adjacent to [Marsh]>", "Provides the cheapest [Culture] building in your first [1] cities for free" <upon declaring friendship>", "Gain [1]-[100] [Gold] <upon constructing [Production] [in all coastal cities]>", "[+1] population in a random city <upon declaring friendship>", "[+1 Gold, +1 Food] in cities on [River] tiles", "[Faith] cost of purchasing items in cities [+100]%", "[-25]% Strength for cities", "[+50]% unhappiness from the number of cities", "[-25]% Production when constructing [Military] units [in all cities]"],
 		"cities": ["Mickelbrieg","Fuldunum","Cananefatorp","Woolaes","Praascoff","Cyrilneathn","Battawick","Fullvic","Harovskayabed","Harfham","Gossrodjock", "Mickelcleef", "Fulferfa","Meneiham"],
 		},
 ]
