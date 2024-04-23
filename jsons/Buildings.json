@@ -42,7 +42,7 @@
         "name": "Secret of Vibranium Alloys",
         "requiredTech": "Iron Working",
         "requiredBuilding": "Sacred Mound",
-        "isWonder": "true",
+        "isNationalWonder": "true",
         "cost": 125,
         "science": 1,
         "uniques": ["[+25]% Strength for cities <when defending>",
@@ -64,7 +64,7 @@
             "[-10]% Unhappiness from [Population] [in all cities]",
             "[+1 Culture, +1 Science, +1 Happiness] from each Trade Route",
             "Only available <if [Sacred Mound] is constructed>",
-            "Will not be displayed in Civilopedia"],
+            "Can only be built <after adopting [Aesthetics]>"],
         "quote": "'You have been told that the might of your country is in its wonderful invention, in its circuits and weaponry. This is the mastery of things. But Wakanda was great before it had things, and its secrets are older than any vaulted metal.' - Ramonda"
     },
     {
@@ -81,7 +81,7 @@
             "[Gold] cost of purchasing items in cities [-10]%",
             "[-10]% maintenance cost for buildings [in all cities]",
             "Only available <if [Sacred Mound] is constructed>",
-            "Will not be displayed in Civilopedia"],
+            ""Can only be built <after adopting [Commerce]>""],
         "quote": "'Just as money has been in the past the instrument of men's selfishness, now it must be the instrument of their goodwill.' - Alice Bailey"
     },
     {
@@ -96,7 +96,7 @@
 "[+10]% Growth [in all cities]",
             "[+1 Food, +1 Happiness] [in all cities]",
             "Only available <if [Sacred Mound] is constructed>",
-            "Will not be displayed in Civilopedia"],
+            ""Can only be built <after adopting [Tradition]>""],
         "quote": "'A warrior shaman received a vision from the panther goddess Bast, who led him to the Heart-Shaped Herb, a plant that granted him superhuman strength, speed and instincts.' - N'Jobu"
     },
     {
@@ -113,7 +113,7 @@
             "Provides [2] [Aluminum]",
            
             "Only available <if [Sacred Mound] is constructed>",
-            "Will not be displayed in Civilopedia"],
+            "Can only be built <after adopting [Rationalism]>"],
         "quote": "'Antarctic Vibranium. Ever heard of it? It emanates vibrations, which cause the atomic molecular bonds in metals to weaken and in most cases liquefy.' - Misty Knight"
     },
     {
@@ -126,7 +126,7 @@
         "uniques": ["[All] units gain the [Panther Eyes] promotion",
             "[+1] Sight <for [Sword] units>",
             "Only available <if [Sacred Mound] is constructed>",
-            "Will not be displayed in Civilopedia"],
+            "Can only be built <after adopting [Honor]>"],
         "quote": "'Lifting her eyes she saw two bright objects starring the darkness with a reddish-green glow. She took them to be two coals on the hearth, but with her returning sense of direction came the disquieting consciousness that they were not in that quarter of the room, moreover were too high, being nearly at the level of the eyes--of her own eyes. For these were the eyes of a panther.' - Ambrose Bierce"
     },
     {
@@ -141,7 +141,7 @@
             "Provides [2] [Uranium]",
             "Double quantity of [Uranium] produced",
             "Only available <if [Sacred Mound] is constructed>",
-            "Will not be displayed in Civilopedia"],
+            "Can only be built <after adopting [Liberty]>"],
         "quote": "'It's not just a metal. They sew it into their clothes. It powers their city, their tech... their weapons. Makes my arm cannon look like a leaf blower.' - Ulysses Klaue"
     }
 	{
@@ -154,7 +154,7 @@
   "culture": 1,
 		"hurryCostModifier": 50,
 		"requiredBuilding": "Walls",
-		"uniques": ["[+1 Culture] from every [Ocean]"],
+		"uniques": ["[+2 Culture] from every [Ocean]"],
 		"requiredTech": "Construction",
 	},
 	{
