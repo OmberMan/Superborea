@@ -153,7 +153,7 @@
 		"upgradesTo": "Swordsman",
 		"attackSound": "nonmetalhit"
 	},
-	{
+		{
 		"name": "War Rhino",
 		"unitType": "Mounted",
 		"replaces": "Horseman",
@@ -163,32 +163,32 @@
 		"cost": 100,
 		"hurryCostModifier": 20,
 		"requiredTech": "Horseback Riding",
-		"requiredResource": "Horses",
 		"upgradesTo": "Knight",
 		"obsoleteTech": "Metallurgy",
-		"uniques": ["Can move after attacking",
-			"No defensive terrain penalty",
-			"[-10]% Strength for enemy [Military] units in adjacent [Land] tiles"],
+		"uniques": ["[+40]% Strength <when attacking>",
+			"No defensive terrain bonus", "Destroys tile improvements when attacking",
+			"[-5]% Strength for enemy [Military] units in adjacent [Land] tiles"],
 		"attackSound": "elephant"		
 	},
+	
 	{
 		"name": "Dora Milaje",
-		"replaces": "Pikeman",
+		"replaces": "Spearman",
 		"uniqueTo": "Wakanda",
 		"unitType": "Sword",
 		"movement": 2,
-		"strength": 18,
-		"cost": 45,
-		"requiredTech": "Civil Service",
-		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
+		"strength": 13,
+		"cost": 56,
+		"requiredTech": "Bronze Working",
+		"uniques": ["[+50]% Strength <vs [Mounted] units>", "[+50]% Strength <vs [Ranged] units> <when defending>"],
 		"upgradesTo": "Musketman",
-		"obsoleteTech": "Gunpowder",
-		"attackSound": "metalhit"
-	},
+		"attackSound": "jetgun"
+	}, 
 	{
 		"name": "Infiltrator",
 		"uniqueTo": "Wakanda",
 		"unitType": "Scout",
+"replaces": "Scout",
 		"movement": 2,
 		"strength": 10,
 		"cost": 200,
@@ -197,7 +197,7 @@
 			"Invisible to non-adjacent units",
 			"Can see invisible [Land] units",
 			"May enter foreign tiles without open borders"],
-		"attackSound": "jetgun"
+		"attackSound": "machinegun"
 	},
 	{
 		"name": "Helicarrier",
@@ -229,10 +229,11 @@
 		"strength": 20,
 		"cost": 500,
 		"uniques": ["[+15]% Strength bonus for [Military] units within [2] tiles",
-			"[-10]% Strength for enemy [Military] units in adjacent [All] tiles",
+			"[-5]% Strength for enemy [Military] units in adjacent [All] tiles",
 			"Uncapturable",
 			"Limited to [1] per Civilization",
 			"Only available <in cities with a [Sacred Mound]>",
+"Ignores Zone of Control",
 			"[+50]% XP gained from combat",
 			"Heals [25] damage if it kills a unit",
 			"[+50]% Strength <during the [Classical era]>",
