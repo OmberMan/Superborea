@@ -81,7 +81,7 @@
             "[Gold] cost of purchasing items in cities [-10]%",
             "[-10]% maintenance cost for buildings [in all cities]",
             "Only available <if [Sacred Mound] is constructed>",
-            ""Can only be built <after adopting [Commerce]>""],
+            ""Can only be built <after adopting [Commerce]>"],
         "quote": "'Just as money has been in the past the instrument of men's selfishness, now it must be the instrument of their goodwill.' - Alice Bailey"
     },
     {
@@ -96,7 +96,7 @@
 "[+10]% Growth [in all cities]",
             "[+1 Food, +1 Happiness] [in all cities]",
             "Only available <if [Sacred Mound] is constructed>",
-            ""Can only be built <after adopting [Tradition]>""],
+            "Can only be built <after adopting [Tradition]>"],
         "quote": "'A warrior shaman received a vision from the panther goddess Bast, who led him to the Heart-Shaped Herb, a plant that granted him superhuman strength, speed and instincts.' - N'Jobu"
     },
     {
