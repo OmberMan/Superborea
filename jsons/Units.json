@@ -5,7 +5,7 @@
 		"uniqueTo": "Hyperborea",
 		"replaces": "Great General",
 		"uniques": ["Can start an [8]-turn golden age", "[+20]% Strength bonus for [Land] units within [3] tiles",
-			"All adjacent units heal [+30] HP when healing", "Great Person - [War]", "Unbuildable"],
+			"All adjacent units heal [+30] HP when healing", "Great Person - [War]","Can be earned through combat", "Unbuildable"],
 		"movement": 3
 	},
 	        {
