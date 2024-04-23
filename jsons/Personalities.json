@@ -1,4 +1,22 @@
 [ 
+{
+                "name": "T'Chanka",
+                "preferredVictoryType": "Scientific",
+                "food": 4,
+                "production": 5,
+                "gold": 3,
+                "culture": 8,
+                "science": 10,
+                "faith": 3,
+                "military": 8,
+                "warMongering": 4,
+"priorities": {
+    "Tradition": 40,
+    "Rationalism": 40,
+    "Order": 10,
+"Aesthetics": 20
+}
+        },
  {
                 "name": "Dugin",
                 "preferredVictoryType": "Cultural",
