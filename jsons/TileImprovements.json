@@ -12,11 +12,11 @@
                 "name": "Taetaerkt",
                 "uniqueTo": "Atlantis",
                 "terrainsCanBeBuiltOn": ["Coast", "Ocean"],
-                "food": -1,
+                "food": -2,
                 "culture": 2,
                 "production": 1,
                 "turnsToBuild": 11,
-                "uniques": [ "[+1 Food, +1 Gold] for each adjacent [Water resource]", "[Cannot be built on [Water resource]", "Costs [amount] [stat] per turn", "[+1 Culture] <after discovering [Philosophy]>", "[+1 Food] for each adjacent [Ice]"],
+                "uniques": [ "[+1 Food, +1 Gold] for each adjacent [Water resource]", "[Cannot be built on [Water resource]", "Costs [1] [Gold] per turn", "[+1 Science] <after discovering [Philosophy]>", "Gives a defensive bonus of [+25]%", "Pillaging this improvement yields [+44 Gold]"],
                 "techRequired": "Construction"
         },
         {
