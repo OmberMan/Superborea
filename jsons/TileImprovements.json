@@ -8,7 +8,17 @@
                 "uniques": [ "[+1 Food] for each adjacent [Camp]","[+1 Production] <after discovering [Industrialization]>", "[+1 Culture] <after discovering [Philosophy]>", "[+1 Food] for each adjacent [Ice]"],
                 "techRequired": "Masonry"
         },
-
+    {
+                "name": "Taetaerkt",
+                "uniqueTo": "Atlantis",
+                "terrainsCanBeBuiltOn": ["Coast", "Ocean"],
+                "food": -3,
+                "culture": 2,
+                "production": 1
+                "turnsToBuild": 11,
+                "uniques": [ "[+1 Food] for each adjacent [Camp]","[+1 Production] <after discovering [Industrialization]>", "[+1 Culture] <after discovering [Philosophy]>", "[+1 Food] for each adjacent [Ice]"],
+                "techRequired": "Construction"
+        },
         {
                 "name": "Jolopong",
                 "uniqueTo": "Sunda Empire",
