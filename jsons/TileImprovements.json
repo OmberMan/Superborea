@@ -12,11 +12,11 @@
                 "name": "Taetaerkt",
                 "uniqueTo": "Atlantis",
                 "terrainsCanBeBuiltOn": ["Coast", "Ocean"],
-                "food": -3,
+                "food": -1,
                 "culture": 2,
-                "production": 1
+                "production": 1,
                 "turnsToBuild": 11,
-                "uniques": [ "[+1 Food] for each adjacent [Camp]","[+1 Production] <after discovering [Industrialization]>", "[+1 Culture] <after discovering [Philosophy]>", "[+1 Food] for each adjacent [Ice]"],
+                "uniques": [ "[+1 Food, +1 Gold] for each adjacent [Water resource]", "[Cannot be built on [Water resource]", "Costs [amount] [stat] per turn", "[+1 Culture] <after discovering [Philosophy]>", "[+1 Food] for each adjacent [Ice]"],
                 "techRequired": "Construction"
         },
         {
