@@ -12,13 +12,13 @@
         },
 {
 		"name": "Wakanda Forever",
-		"uniques": ["[+20]% Strength decreasing with distance from the capital",
+		"uniques": ["[+20]% Strength decreasing with distance from the capital","[+5] HP when healing",
 			"[+15]% Strength <vs [Barbarian] units>",
 			"Uncapturable"]
 	},
 	{
 		"name": "Panther Eyes",
-		"uniques": ["Can see invisible [All] units", "Can see over obstacles", "[+18]% Strength decreasing with distance from the capital"]
+		"uniques": ["Can see invisible [All] units", "Can see over obstacles"]
 	},
 {
 		"name": "Ocean Man",
