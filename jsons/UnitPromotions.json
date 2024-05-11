@@ -18,6 +18,10 @@
 	},
 	{
 		"name": "Panther Eyes",
-		"uniques": ["Can see invisible [All] units", "Can see over obstacles"]
-	}
+		"uniques": ["Can see invisible [All] units", "Can see over obstacles", "[+18]% Strength decreasing with distance from the capital"]
+	},
+{
+		"name": "Ocean Man",
+		"uniques": ["Can instantly construct a [Taetaerkt] improvement <after which this unit is consumed>"]
+}
 ]
