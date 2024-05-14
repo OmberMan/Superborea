@@ -4,7 +4,7 @@
 		"name": "Hyperborea",
 		"leaderName": "Sudyumna Paurvashi",
 		"adjective": ["Hyperborean"],
-		"startBias": ["Tundra", "Coast" ],
+		"startBias": ["Tundra", "Coast"],
 		"preferredVictoryType": "Cultural",
   "personality": "Dugin",
   "style": "Nordic",
@@ -32,7 +32,7 @@
 		"leaderName": "Theoden",
 		"adjective": ["Rohan"],
 		"style": "Germanic",
-		"startBias": ["Plains"],
+		"startBias": ["Plains", "Horses"],
 		"preferredVictoryType": "Domination",
 	        "personality": "Theoden",
 		
@@ -52,7 +52,7 @@
 		"outerColor": [2, 112, 11],
 		"innerColor": [224, 218, 157],
 		"uniqueName": "Muster the Rohirrim",
-		"uniqueText": "Starts with Animal Husbandry. +1 Movement for all Mounted units, double quantity of Horses and Horses provide +1 Food."
+		/*"uniqueText": "Starts with Animal Husbandry. +1 Movement for all Mounted units, double quantity of Horses and Horses provide +1 Food."*/
 		"uniques": ["Starts with [Animal Husbandry]","[+1] Movement <for [Mounted] units>","Double quantity of [Horses] produced","[+1 Food] from every [Horses]", "[+1 Food] from every [Pasture]", "[+15]% Strength <for [Mounted] units> <when adjacent to a [Mounted] unit>"],
 		"cities": ["Edoras","Helm's Deep","Snowbourn","Aldburg","Dunharrow","Grimslade","Fords of Isen","Gap of Rohan","Eastemnet","Eastfold","Westemnet","Folde","Westfold","The Wold","West-March","Minhiriath","Meduseld","Framsburg"]
 	}
@@ -105,7 +105,7 @@
 		"outerColor": [190,55,100],
 		"innerColor": [230,145,45],
 		"uniqueName": "Punching Bag",
-		"uniques": ["[+1 Food] from [Farm] tiles [in all cities] <in tiles adjacent to [Hill]>", "[+1 Food] from [Farm] tiles [in all cities] <in tiles adjacent to [Marsh]>", "Provides the cheapest [Culture] building in your first [1] cities for free <upon declaring friendship>", "Gain [1]-[200] [Gold] <upon constructing [Production] [in all coastal cities]>", "[+1] population in a random city <upon constructing [Production] [in all coastal cities]>", "[+1] population in a random city <upon declaring friendship>", "[+1 Gold, +1 Food] in cities on [River] tiles", "[Faith] cost of purchasing items in cities [+100]%", "[-25]% Strength for cities", "[+50]% unhappiness from the number of cities", "[-25]% Production when constructing [Military] units [in all cities]", "[+1 Happiness, -1 Faith] from all [Faith] buildings", "[+10]% [Gold] from all [Production] buildings", "[-5]% [Production] from all [Production] buildings"],
+		"uniques": ["[+1 Food] from [Farm] tiles [in all cities] <in tiles adjacent to [Hill]>", "[+1 Food] from [Farm] tiles [in all cities] <in tiles adjacent to [Marsh]>", "Provides the cheapest [Production] building in your first [1] cities for free <upon declaring friendship>", "Gain [1]-[200] [Gold] <upon constructing [Production] [in all coastal cities]>", "[+1] population in a random city <upon constructing [Production] [in all coastal cities]>", "[+1 Gold, +1 Food, +2 Happiness] in cities on [River] tiles", "[-25]% Strength for cities", "[+50]% unhappiness from the number of cities", "[+10]% [Gold] from all [Production] buildings", "[-5]% [Production] from all [Production] buildings"],
 		"cities": ["Mickelbrieg","Fuldunum","Cananefatorp","Woolaes","Praascoff","Cyrilneathn","Battawick","Fullvic","Harovskayabed","Harfham","Gossrodjock", "Mickelcleef", "Fulferfa","Meneiham"],
 		},
       {
