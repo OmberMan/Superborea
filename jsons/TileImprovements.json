@@ -2,10 +2,10 @@
 {
                 "name": "Meat Mill",
                 "uniqueTo": "Doggerland",
-                "terrainsCanBeBuiltOn": ["Grasslands", "Plains"],
+                "terrainsCanBeBuiltOn": ["Grassland", "Plains"],
                 "production": 1,
                 "turnsToBuild": 8,
-                "uniques": [ "[+1 Gold] for each adjacent [Forest]", "[+1 Production] for each adjacent [Meat Mill] <after discovering [Industrialization]>", "Cannot be built on [Bonus Resource] tiles", "Cannot be built on [Luxury Resource] tiles", "[+1 Food] <in [Coastal] tiles>", "Can only be built on [Forest] tiles", "Does not need removal of [Forest]", "Costs [1] [Gold] per turn when in your territory", "Pillaging this improvement yields [26 Gold]",  ],
+                "uniques": [ "[+1 Gold] for each adjacent [Forest]", "[+1 Production] for each adjacent [Meat Mill] <after discovering [Industrialization]>", "Cannot be built on [Bonus Resource] tiles", "Cannot be built on [Luxury Resource] tiles", "[+1 Food] <in [Coastal] tiles>", "Can only be built on [Forest] tiles", "Does not need removal of [Forest]", "Costs [1] [Gold] per turn when in your territory", "Pillaging this improvement yields [+26 Gold]"],
                 "techRequired": "Engineering"
         },
     {
