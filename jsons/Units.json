@@ -23,6 +23,19 @@
                 "attackSound": "metalhit"
         },
 	        {
+                "name": "Gillman",
+                "unitType": "Sword",
+                "uniqueTo": "Doggerland",
+                "movement": 2,
+                "strength": 10,
+                "replaces": "Spearman",
+		"cost": 48,
+"requiredTech": "Bronze Working",
+                "upgradesTo": "Pikeman",
+                "uniques": ["[+15]% Strength <vs [Spearman] units>", "[+25]% Strength <vs [Pikeman] units>", "[+85]% Strength <vs [Mounted] units>", "Eliminates combat penalty for attacking over a river", "Eliminates combat penalty for attacking across a coast"],
+                "attackSound": "metalhit"
+        },
+	        {
                 "name": "Mammoth Rider",
                 "unitType": "Mounted",
                 "uniqueTo": "Hyperborea",
