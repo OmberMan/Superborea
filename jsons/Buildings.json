@@ -40,7 +40,7 @@
 		"name": "Dovishok",
 		"maintenance": 0,
 		"gold": 2,
-  "uniqueTo": "Wakanda",
+  "uniqueTo": "Doggerland",
   "replaces": "Workshop",
 		"specialistSlots": {"Engineer": 1},
 		"hurryCostModifier": 25,
