@@ -31,8 +31,8 @@
                 "replaces": "Spearman",
 		"cost": 48,
 "requiredTech": "Bronze Working",
-                "upgradesTo": "Pikeman",
-                "uniques": ["[+15]% Strength <vs [Spearman] units>", "[+25]% Strength <vs [Pikeman] units>", "[+85]% Strength <vs [Mounted] units>", "Eliminates combat penalty for attacking over a river", "Eliminates combat penalty for attacking across a coast"],
+                "upgradesTo": "Pikeman",
+			"uniques": ["[+15]% Strength <vs [Spearman] units>", "[+25]% Strength <vs [Pikeman] units>", "[+85]% Strength <vs [Mounted] units>", "Eliminates combat penalty for attacking over a river", "Eliminates combat penalty for attacking across a coast"],
                 "attackSound": "metalhit"
         },
 	        {
@@ -178,7 +178,7 @@
 		"requiredTech": "Horseback Riding",
 		"upgradesTo": "Knight",
 		"obsoleteTech": "Metallurgy",
-		"uniques": ["[+40]% Strength <when attacking>",
+		"uniques": ["[+40]% Strength <when attacking>", "[+40]% Strength <vs [Fortified] units>", "[This Unit] takes [15] damage <upon damaging a [Land] unit> <with [33]% chance>",
 			"No defensive terrain bonus", "Destroys tile improvements when attacking",
 			"[-5]% Strength for enemy [Military] units in adjacent [Land] tiles"],
 		"attackSound": "elephant"		
