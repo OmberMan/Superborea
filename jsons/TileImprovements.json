@@ -8,15 +8,16 @@
                 "uniques": [ "[+1 Gold] for each adjacent [Forest]", "[+1 Production] for each adjacent [Meat Mill] <after discovering [Industrialization]>", "Cannot be built on [Bonus Resource] tiles", "Cannot be built on [Luxury Resource] tiles", "[+1 Food] <in [Coastal] tiles>", "Can only be built on [Forest] tiles", "Does not need removal of [Forest]", "Costs [1] [Gold] per turn when in your territory", "Pillaging this improvement yields [+26 Gold]"],
                 "techRequired": "Engineering"
         },
-    {
-                "name": "Idendo",
-                "uniqueTo": "Leisi",
-                "terrainsCanBeBuiltOn": ["Tundra","Snow"],
-                "food": 1,
-                "turnsToBuild": 7,
-                "uniques": [ "[+1 Food] for each adjacent [Camp]","[+1 Production] <after discovering [Industrialization]>", "[+1 Culture] <after discovering [Philosophy]>", "[+1 Food] for each adjacent [Ice]"],
-                "techRequired": "Masonry"
-        },
+{
+		"name": "Idendo",
+		"uniqueTo": "Leisi",
+		"terrainsCanBeBuiltOn": ["Tundra","Snow"],
+		"food": 1,
+    "culture": 1,
+		"turnsToBuild": 6,
+		"uniques": ["[+1 Food] for each adjacent [Camp]","[+1 Production, +1 Food] <after discovering [Industrialization]>","[+1 Faith] <after discovering [Philosophy]>", "Adjacent enemy units ending their turn take [10] damage"],
+		"techRequired": "Masonry"
+	},
     {
                 "name": "Taetaerkt",
                 "uniqueTo": "Atlantis",
@@ -25,7 +26,7 @@
                 "culture": 2,
                 "science": 1
                 "production": 1,
-                "turnsToBuild": 11,
+                "turnsToBuild": 10,
                 "uniques": [ "[+1 Food, +1 Gold] for each adjacent [Water resource]", "Cannot be built on [Water resource]", "Costs [2] [Gold] per turn", "[+1 Science] <after discovering [Philosophy]>", "Gives a defensive bonus of [+25]%", "Pillaging this improvement yields [+44 Gold]"],
                 "techRequired": "Construction"
         },
